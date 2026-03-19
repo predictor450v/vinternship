@@ -5,6 +5,7 @@ order: 9
 summary: Personalized LLM assistant that answers queries using a RAG-based knowledge database
 color: "38BDF8"
 repo: "vicharanashala/visakha"
+repo2: "vicharanashala/sakha-client"
 features: []
 mentors:
   - Aditya BMV
@@ -40,7 +41,8 @@ Users receive accurate answers because responses are taken from stored knowledge
 
 ## **GitHub Repository**
 
-[Vi-Sakha](https://github.com/{{ page.repo }}){:target="_blank"}
+1. [Vi-Sakha](https://github.com/{{ page.repo }}){:target="_blank"}
+2. [Sakha-Client](https://github.com/{{ page.repo2 }}){:target="_blank"}
 
 {% if page.features.size > 0 %}
 ## **Upcoming Features**
